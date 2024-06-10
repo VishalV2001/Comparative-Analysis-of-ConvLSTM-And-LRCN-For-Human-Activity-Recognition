@@ -38,7 +38,7 @@ LRCN integrates convolutional layers for spatial feature extraction with recurre
 ## How to Run the Project
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/VishalV2001/Comparative Analysis of ConvLSTM And LRCN For Human Activity Recognition.git
     ```
 2. Navigate to the project directory:
     ```bash
